@@ -5,9 +5,10 @@ Organização e Recuperação de Informações.
 
 -----------------------
 Nesse relatório foi analisada a eficiência de 6 métodos de ordenação:
-- Bubblesort (Bolha)
-- Selection Sort (Seleção)
-- Insertion Sort (Inserção)
-- Quicksort
-- Heapsort
-- Shellsort
+
+* Bubblesort (Bolha)
+* Selection Sort (Seleção)
+* Insertion Sort (Inserção)
+* Quicksort
+* Heapsort
+* Shellsort
